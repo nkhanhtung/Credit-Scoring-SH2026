@@ -1,0 +1,11 @@
+# Bỏ qua toàn bộ thư mục dataset
+dataset/
+
+# Bỏ qua các file excel, csv lẻ nếu có
+*.csv
+*.xlsx
+*.xlsm
+
+# Bỏ qua checkpoint của Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__/
